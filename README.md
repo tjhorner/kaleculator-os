@@ -2,6 +2,8 @@
 
 # Kaleculator OS
 
+### The best kale themed OS for your calculator you never thought you needed.
+
 This is a fork of [numworks/epsilon](/numworks/epsilon) with some useful additions that I personally find convenient. Also, everything is kale-themed. I thought it was funny.
 
 This isn't really meant to be easy to follow or anything. I just wanted to show everyone my changes, in case they wanted to check them out. Please don't contact me about issues that aren't related to the code I added, that would be better on the main repo.
