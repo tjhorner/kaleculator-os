@@ -3,6 +3,7 @@
 PLATFORM ?= device
 VERBOSE ?= 0
 DEBUG ?= 0
+LED_WHILE_CHARGING ?= 1
 
 # Do not edit below this
 
@@ -16,7 +17,7 @@ include build/platform.$(PLATFORM).mak
 include build/toolchain.$(TOOLCHAIN).mak
 
 OS_WITH_ONBOARDING_APP ?= 1
-OS_WITH_SOFTWARE_UPDATE_PROMPT ?= 1
+OS_WITH_SOFTWARE_UPDATE_PROMPT ?= 0
 QUIZ_USE_CONSOLE ?= 0
 
 SFLAGS += -DDEBUG=$(DEBUG)
