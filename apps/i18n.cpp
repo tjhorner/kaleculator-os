@@ -447,7 +447,7 @@ const char * universalMessages[478] {
   "confidence(f,n)",
 
   // Chemistry constants
-  "8.022*10^23",
+  "6.02214076*10^23",
   "1.008",
   "4.0026022",
   "6.94",
